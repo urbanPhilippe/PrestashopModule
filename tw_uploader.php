@@ -15,10 +15,7 @@
     // Main class
     class Tw_Uploader extends Module 
     {
-        //const HOOK_RIGHT_COLUMN = 1;
-	    //const HOOK_LEFT_COLUMN = 2;
-	    //const HOOK_HOME = 3;
-                
+                 
         // Constructor method
         public function __construct()
         {
